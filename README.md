@@ -55,9 +55,9 @@ configs of every released checkpoint.
 2026-12: To appear in ACM Transactions on Graphics 45(6) and to be presented at
 SIGGRAPH Asia 2026.<br>
 2026-09-13: Mirrored on ModelScope:
-<sub><a href="https://www.modelscope.cn/studios/huawei-bayerlab/marigold-v2-web" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ModelScope-Website-1e8080?logo=modelscope&logoColor=white" height="17" alt="ModelScope website"></a>
-<a href="https://www.modelscope.cn/models/huawei-bayerlab/marigold-v2-0" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ModelScope-Model-8a740f?logo=modelscope&logoColor=white" height="17" alt="ModelScope model"></a>
-<a href="https://www.modelscope.cn/studios/huawei-bayerlab/Marigold-V2" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ModelScope-Demo-3c853c?logo=modelscope&logoColor=white" height="17" alt="ModelScope demo"></a></sub><br>
+<sub><a href="https://www.modelscope.cn/studios/huawei-bayerlab/marigold-v2-web" target="_blank" rel="noopener noreferrer"><img src="assets/shields/modelscope-website.svg" height="17" alt="ModelScope website"></a>
+<a href="https://www.modelscope.cn/models/huawei-bayerlab/marigold-v2-0" target="_blank" rel="noopener noreferrer"><img src="assets/shields/modelscope-model.svg" height="17" alt="ModelScope model"></a>
+<a href="https://www.modelscope.cn/studios/huawei-bayerlab/Marigold-V2" target="_blank" rel="noopener noreferrer"><img src="assets/shields/modelscope-demo.svg" height="17" alt="ModelScope demo"></a></sub><br>
 2026-09-08: Initial release: inference, evaluation, and training code, the released
 checkpoints, and the demo.<br>
 
